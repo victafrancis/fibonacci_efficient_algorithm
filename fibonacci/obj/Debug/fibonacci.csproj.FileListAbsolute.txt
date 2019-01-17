@@ -1,0 +1,7 @@
+C:\Users\franc\source\repos\Sem4-Data Structures\fibonacci\fibonacci\bin\Debug\fibonacci.exe.config
+C:\Users\franc\source\repos\Sem4-Data Structures\fibonacci\fibonacci\bin\Debug\fibonacci.exe
+C:\Users\franc\source\repos\Sem4-Data Structures\fibonacci\fibonacci\bin\Debug\fibonacci.pdb
+C:\Users\franc\source\repos\Sem4-Data Structures\fibonacci\fibonacci\obj\Debug\fibonacci.csprojAssemblyReference.cache
+C:\Users\franc\source\repos\Sem4-Data Structures\fibonacci\fibonacci\obj\Debug\fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\Sem4-Data Structures\fibonacci\fibonacci\obj\Debug\fibonacci.exe
+C:\Users\franc\source\repos\Sem4-Data Structures\fibonacci\fibonacci\obj\Debug\fibonacci.pdb
